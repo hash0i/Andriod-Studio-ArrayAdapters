@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Welcome to Starbuzz</string>
+
+    <string-array name="options">
+        <item name="Item1">Drinks</item>
+    </string-array>
+
+
+    <string name="ActivitySMS">Fourth Activity</string>
+    <string name="Create_order">Create Order</string>
+    <string name="action_share">Action Share</string>
+
+    <string name="Item_List">Item List</string>
+    <string name="Item_Description">Item Description</string>
+    <string name="action_setting">Action String</string>
+</resources>
